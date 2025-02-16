@@ -38,7 +38,10 @@ A containerized data science application built with Python, featuring data analy
    ```bash
    docker run -p 8000:8000 ds-project
    ```
-
+4. Docker Link
+   ```bash
+   https://hub.docker.com/r/sbv961/tds5/
+   ```
 The application will be available at `http://localhost:8000`
 
 ## 📂 Project Structure
